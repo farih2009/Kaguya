@@ -14,7 +14,7 @@
 ![Repository Size](https://img.shields.io/github/repo-size/Anomaliii/Kaguya?style=for-the-badge&logo=appveyor)</br>
 
 
-[![Join Support!](https://img.shields.io/badge/Support%20Chat-ZeroBot-red)](https://t.me/ZeroBotSupport) 
+[![Join Support!](https://img.shields.io/badge/Support%20Chat-ZeroUnion-red)](https://t.me/ZeroBotSupport) 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/Anomaliii/Kaguya?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Anomaliii/Kaguya&amp;utm_campaign=Badge_Grade)
 
 
