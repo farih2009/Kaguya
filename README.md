@@ -1,30 +1,30 @@
-![Enterprise](https://i.imgur.com/IYqzviU.jpg)
-# Kigyō bot // @KigyoRobot
+![Kaguya](https://telegra.ph/file/9f44458a5f632dcb8c0a5.jpg)
+# Kaguya // @KaguyaRobot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Skuzzy_xD/)</br>
 
 
-![Python Version](https://img.shields.io/badge/python-3.8-green?style=for-the-badge&logo=appveyor)
-![Issues](https://img.shields.io/github/issues/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![Forks](https://img.shields.io/github/forks/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![Stars](https://img.shields.io/github/stars/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![LICENSE](https://img.shields.io/github/license/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![Contributors](https://img.shields.io/github/contributors/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![Repository Size](https://img.shields.io/github/repo-size/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)</br>
+![Python Version](https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor)
+![Issues](https://img.shields.io/github/issues/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
+![Forks](https://img.shields.io/github/forks/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
+![Stars](https://img.shields.io/github/stars/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
+![LICENSE](https://img.shields.io/github/license/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
+![Contributors](https://img.shields.io/github/contributors/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
+![Repository Size](https://img.shields.io/github/repo-size/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)</br>
 
 
-[![Join Support!](https://img.shields.io/badge/Support%20Chat-EagleUnion-red)](https://t.me/YorktownEagleUnion) 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/Dank-del/EnterpriseALRobot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dank-del/EnterpriseALRobot&amp;utm_campaign=Badge_Grade)
+[![Join Support!](https://img.shields.io/badge/Support%20Chat-ZeroBot-red)](https://t.me/ZeroBotSupport) 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/ChisakiKai/KaguyaRobot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dank-del/EnterpriseALRobot&amp;utm_campaign=Badge_Grade)
 
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
-Originally a marie fork - Kigyō has evolved further and was built to be more useful for Anime Chats. 
+Originally a marie fork - Kaguya has evolved further and was built to be more useful for Anime Chats. 
 
-Can be found on telegram as [Kigyōbot](https://t.me/kigyorobot).
+Can be found on telegram as [Kaguya](https://t.me/ShinomiyaRobot).
 
-The Support group can be reached out to at [Eagle Union](https://t.me/YorktownEagleUnion), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Zero Union](https://t.me/ZeroBotSupport), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
  
 
@@ -32,7 +32,7 @@ The Support group can be reached out to at [Eagle Union](https://t.me/YorktownEa
 
 
 # How to setup
-Note: This instruction set is just a copy paste from marie, note that [Eagle Union](https://t.me/YorktownEagleUnion) aims to handle support for @Kigyorobot and now how to setup your own fork, if you find this bit confusing/tough to understand then we recommend you ask a dev, kindly avoid asking how to setup the bot instance in the support chat, it aims to help our own instance of the bot. 
+Note: This instruction set is just a copy paste from marie, note that [Zero Union](https://t.me/ZeroBotSupport) aims to handle support for @Kaguyarobot and now how to setup your own fork, if you find this bit confusing/tough to understand then we recommend you ask a dev, kindly avoid asking how to setup the bot instance in the support chat, it aims to help our own instance of the bot. 
   
 ## Setting up the bot (Read this before trying to use!):
 Please make sure to use python3.6, as I cannot guarantee everything will work as expected on older python versions!
@@ -167,19 +167,21 @@ Make sure to edit the start and restart bats to your needs.
 Note: the restart bat requires that User account control be disabled.
 
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Eagle Union](https://t.me/YorktownEagleUnion)  
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Zero Union](https://t.me/ZeroBotSupport)  
 </details>  
 
 ## Credits
 The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
 This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
+And big thanks to [Dank - del](https://github.com/Dank-del) to make [Kigyō](https://github.com/Dank-del/EnterpriseALRobot) for base and inspiring me make this bot.
+
 Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (will add it later, this note says unless its done)
 
 Any other authorship/credits can be seen through the commits.
 
 
-Should any be missing kindly let us know at [Eagle Union](https://t.me/YorktownEagleUnion) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Zero Union](https://t.me/ZeroBotSupport) or simply submit a pull request on the readme.
 
-## © Eagle Union (2021)
+## © Zero Union (2021)
  Software licensed under GPLv3
