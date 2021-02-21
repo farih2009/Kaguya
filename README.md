@@ -6,16 +6,16 @@
 
 
 ![Python Version](https://img.shields.io/badge/python-3.8-green?style=for-the-badge&logo=appveyor)
-![Issues](https://img.shields.io/github/issues/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
-![Forks](https://img.shields.io/github/forks/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
-![Stars](https://img.shields.io/github/stars/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
-![LICENSE](https://img.shields.io/github/license/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
-![Contributors](https://img.shields.io/github/contributors/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)
-![Repository Size](https://img.shields.io/github/repo-size/ChisakiKai/KaguyaRobot?style=for-the-badge&logo=appveyor)</br>
+![Issues](https://img.shields.io/github/issues/Anomaliii/Kaguya?style=for-the-badge&logo=appveyor)
+![Forks](https://img.shields.io/github/forks/Anomaliii/Kaguya?style=for-the-badge&logo=appveyor)
+![Stars](https://img.shields.io/github/stars/Anomaliii/Kaguya?style=for-the-badge&logo=appveyor)
+![LICENSE](https://img.shields.io/github/license/Anomaliii/Kaguya?style=for-the-badge&logo=appveyor)
+![Contributors](https://img.shields.io/github/contributors/Anomaliii/Kaguya?style=for-the-badge&logo=appveyor)
+![Repository Size](https://img.shields.io/github/repo-size/Anomaliii/Kaguya?style=for-the-badge&logo=appveyor)</br>
 
 
 [![Join Support!](https://img.shields.io/badge/Support%20Chat-ZeroBot-red)](https://t.me/ZeroBotSupport) 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/ChisakiKai/KaguyaRobot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dank-del/EnterpriseALRobot&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/Anomaliii/Kaguya?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Anomaliii/Kaguya&amp;utm_campaign=Badge_Grade)
 
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
